@@ -30,5 +30,11 @@ sudo alternatives --config java
 ```
 
 
+## License scaffold
+```shell
+gh repo license view MIT > LICENSE
+```
+
+
 ## References
 - [Install Android CLI](https://developer.android.com/tools/agents)
